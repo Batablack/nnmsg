@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="tx2 (11e32578-151e-4f5c-b4eb-2549109f26ca)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="vm1804 (0687f47d-79aa-47b5-8032-eef9992c2ebc)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/tmp.zdEw8tR5DU" local="$PROJECT_DIR$" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug-vm1804" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug-vm1804" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+      <paths name="vm1804arm (7daae4bd-9044-4c99-aca1-bcc606ab9d3d)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="wsl (8111cbf4-8009-4b84-a00c-4657656fa15e)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

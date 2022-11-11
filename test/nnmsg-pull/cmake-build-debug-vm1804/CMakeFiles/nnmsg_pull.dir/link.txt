@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/nnmsg_pull.dir/pull.cpp.o  -o nnmsg_pull  -L/tmp/tmp.zdEw8tR5DU/lib -Wl,-rpath,/tmp/tmp.zdEw8tR5DU/lib -lnanomsg -lpthread 

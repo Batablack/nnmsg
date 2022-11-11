@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/nnmsg_push.dir/main.cpp.o  -o nnmsg_push  -L/tmp/tmp.yvylvVcfh1/lib -Wl,-rpath,/tmp/tmp.yvylvVcfh1/lib -lnanomsg -lpthread 

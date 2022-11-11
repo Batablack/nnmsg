@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/nnmsg_pull.dir/pull.cpp.o  -o nnmsg_pull  -L/mnt/hgfs/learn/communicate/nanomsg/nnmsg-pull/lib -Wl,-rpath,/mnt/hgfs/learn/communicate/nanomsg/nnmsg-pull/lib -lnanomsg -lpthread 

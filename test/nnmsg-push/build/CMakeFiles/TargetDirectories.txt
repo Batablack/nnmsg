@@ -1,0 +1,3 @@
+/mnt/hgfs/learn/communicate/nanomsg/nnmsg-push/build/CMakeFiles/rebuild_cache.dir
+/mnt/hgfs/learn/communicate/nanomsg/nnmsg-push/build/CMakeFiles/nnmsg_push.dir
+/mnt/hgfs/learn/communicate/nanomsg/nnmsg-push/build/CMakeFiles/edit_cache.dir

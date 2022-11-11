@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/nnmsg_push.dir/main.cpp.o  -o nnmsg_push  -L/mnt/hgfs/learn/communicate/nanomsg/nnmsg-push/lib -Wl,-rpath,/mnt/hgfs/learn/communicate/nanomsg/nnmsg-push/lib -lnanomsg -lpthread 

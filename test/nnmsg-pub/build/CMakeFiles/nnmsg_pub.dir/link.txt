@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/nnmsg_pub.dir/main.cpp.o  -o nnmsg_pub  -L/mnt/hgfs/learn/communicate/nanomsg/nnmsg-pub/lib -Wl,-rpath,/mnt/hgfs/learn/communicate/nanomsg/nnmsg-pub/lib -lnanomsg -lpthread 

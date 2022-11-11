@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/nnmsg_sub.dir/main.cpp.o  -o nnmsg_sub  -L/mnt/hgfs/learn/communicate/nanomsg/nnmsg-sub/lib -Wl,-rpath,/mnt/hgfs/learn/communicate/nanomsg/nnmsg-sub/lib -lnanomsg -lpthread 

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/nnmsg_sub.dir/main.cpp.o  -o nnmsg_sub  -L/tmp/tmp.hkaHYERNxO/lib -Wl,-rpath,/tmp/tmp.hkaHYERNxO/lib -lnanomsg -lpthread 

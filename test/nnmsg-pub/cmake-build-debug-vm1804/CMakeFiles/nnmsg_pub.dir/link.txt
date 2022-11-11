@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/nnmsg_pub.dir/main.cpp.o  -o nnmsg_pub  -L/tmp/tmp.i75PqsdKMn/lib -Wl,-rpath,/tmp/tmp.i75PqsdKMn/lib -lnanomsg -lpthread 
